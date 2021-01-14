@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on things around Emacs
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=rayw000&theme=vue-dark)](https://github.com/rayw000/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayw000)](https://github.com/rayw000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayw000&theme=vue-dark)](https://github.com/rayw000/github-readme-stats)
