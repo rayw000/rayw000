@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on tools which could improve my coding experience
 - 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on things around Emacs
-
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=rayw000&theme=vue-dark)](https://github.com/rayw000/github-readme-stats)
