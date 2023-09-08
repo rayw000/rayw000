@@ -47,6 +47,8 @@ In recent years, I've mainly used Node.js to build web applications. I'm also an
 I use Go for applications with high performance requirements due to its execution efficiency and handy concurrency mechanism. For performance-sensitive applications, I use C/C++ to obtain optimal performance.
 ## Database & Cache
 I have experienced using MongoDB, MySQL, Redis, Memcache etc. in production code, knowing well about their performance tuning and troubleshooting.
+## Generative AI
+ChatGPT is an indispensable partner in my daily life. I’ve learnt prompt engineering myself and wrote long prompts for ChatGPT to act as roles including SQL emulator, codebase analyzer, co-debugger, data analyzer, and even psychological therapist and more to boost my work and life up.
 
 # Languages
 ## Chinese Mandarin 🇨🇳
