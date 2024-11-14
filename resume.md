@@ -58,6 +58,7 @@ I have experienced using MongoDB, MySQL, Redis, Memcache, Doris, etc. in product
 ## Languages
 
 Chinese Mandarin 🇨🇳: Native speaker
+
 English 🇺🇸: Advanced (C1)
 
 
